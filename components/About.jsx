@@ -7,6 +7,7 @@ function About() {
     <div>
       <h1>ABOUT</h1>
       <h2>Please find below details</h2>
+      <h1>Hello All Just making changes to commit in github</h1>
       <div className='flex'>
       <User name={'Rajesh Rao (function)'}/>
       <UserClass name={'Rajesh Rao (Class)'}/>
