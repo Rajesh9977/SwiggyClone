@@ -18,6 +18,7 @@ object-fit: contain' src={CDN_URL +
           cloudinaryImageId}/>
         <h1 className='font-semibold'>{name}</h1>
         <h1>Rs {costForTwo}</h1>
+        <h1>Hello Everyone</h1>
         <h1 className='text-zinc-500'>Rating : {avgRating} ✨ </h1>
     </div>
   )
