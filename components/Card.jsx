@@ -29,6 +29,7 @@ const withPromotedLabel = (Card) =>{
     return(
       <div>
         <label>Promoted</label>
+        <h1>Hello World</h1>
         <Card/>
       </div>
     )
